@@ -3,3 +3,5 @@ Individual Assignment 2
 
 Learning about Version Control
 Author: Dua Khan
+
+“Solving merge conflicts is easy!”
