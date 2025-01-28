@@ -3,4 +3,7 @@ Individual Assignment 2
 
 Learning about Version Control
 
-“Solving merge conflicts is soooooo hard!”
+
+Author: Dua Khan
+
+“Solving merge conflicts takes conscious effort, but I can do it!"
